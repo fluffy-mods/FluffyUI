@@ -1,0 +1,12 @@
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\bin\Release\FluffyUI.dll
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\bin\Release\FluffyUI.pdb
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\obj\Release\FluffyUI.csprojAssemblyReference.cache
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\obj\Release\FluffyUI.csproj.CoreCompileInputs.cache
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\obj\Release\FluffyUI.dll
+D:\Dropbox\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\obj\Release\FluffyUI.pdb
+D:\Synced\Other\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\bin\Release\FluffyUI.dll
+D:\Synced\Other\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\bin\Release\FluffyUI.pdb
+D:\Synced\Other\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\obj\Release\FluffyUI.csprojAssemblyReference.cache
+D:\Synced\Other\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\obj\Release\FluffyUI.dll
+D:\Synced\Other\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\obj\Release\FluffyUI.pdb
+D:\Synced\Other\Mods\Fluffy Mods\TOOLS\FluffyUI\FluffyUI\obj\Release\FluffyUI.csproj.CoreCompileInputs.cache

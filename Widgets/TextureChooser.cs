@@ -10,6 +10,7 @@ using Verse.Sound;
 
 namespace FluffyUI
 {
+    [StaticConstructorOnStartup]
     public class TextureChooser
     {
         private readonly Texture2D[] options;
@@ -22,8 +23,8 @@ namespace FluffyUI
         {
             try
             {
-                LeftArrow = ContentFinder<Texture2D>.Get( "UI/Icons/LeftArrow" );
-                RightArrow = ContentFinder<Texture2D>.Get( "UI/Icons/RightArrow" );
+                LeftArrow = ContentFinder<Texture2D>.Get( "UI/Icons/LeftArrow", false );
+                RightArrow = ContentFinder<Texture2D>.Get( "UI/Icons/RightArrow", false );
             }
             catch ( Exception ex )
             {
